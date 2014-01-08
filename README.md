@@ -1,6 +1,6 @@
 <html>
+<h1> PROFESSOR-RATER</h1>
 <p>
-	<h1> PROFESSOR-RATER</h1>
 Professor Rater was an attempt to recreate a better ratemyprofessor experience on facebook. The applicationn uses Facebook API to authenticate and approve students and professors.
 </p>
 
