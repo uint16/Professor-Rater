@@ -1,6 +1,12 @@
+<!DOCTYPE html>
+<html>
+<p>
 Professor Rater was an attempt to recreate a better ratemyprofessor experience on facebook. The applicationn uses Facebook API to authenticate and approve students and professors.
-
+</p>
+<h1>
 Key Features:
+</h1>
+</html>
 Professors could opt to be in or out of the system ||
 Professors could opt to receive notifications ||
 Professors can be rated per subject basis ||
