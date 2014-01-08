@@ -1,0 +1,221 @@
+
+/* Rules For all pages */
+
+/*
+Suggested Blue: #0039A6;
+Suggested Red: #D52B1E;
+Suggested Yellow-Orange: #FAC000;
+Suggested Grey: #4A4A4A;
+Suggested Light-Blue background: #D3D3E3;
+        Frame for this backgorund:#9C9CDB;
+Suggested Green: #22C900;
+
+
+*/
+
+
+
+
+body {
+font-family: Tahoma;
+color:#515151;
+padding:0px;
+background-color:#FFFFFF;
+margin:0px;
+text-align:left;
+}
+
+a{
+text-decoration:none;
+color:#3b5998;
+
+
+}
+
+
+span{
+margin:10px;
+padding:10px;
+
+}
+
+table{
+
+border-style:solid;
+border-width:1px;
+border-color:#DEDEDE;
+background-color:#0F2F2F2;
+}
+
+
+
+img{
+border-radius:5px;
+border-style:solid;
+border-width:1px;
+margin:10px;
+
+}
+.logo{
+border-radius:0px;
+border-style:none;
+border-width:0px;
+margin:0px;
+}
+.search{
+border-radius:0px;
+border-style:none;
+border-width:0px;
+margin:0px;
+}
+
+textarea{
+margin:20px;
+}
+
+
+/* Menu */
+
+.menu{
+margin-left:0px;
+border-style:solid;
+border-width:2px;
+border-radius:5px;
+padding-top:10px;
+padding-bottom:10px;
+padding-left:20px;
+padding-right:20px;
+width:100%;
+}
+
+
+
+
+.menu a{
+text-decoration:none;
+font-weight:bold;
+color:#4A4A4A;
+padding-top:10px;
+padding-bottom:10px;
+padding-left:20px;
+padding-right:20px;
+border-style:solid;
+border-width:1px;
+border-radius:4px;
+
+}
+
+.menu-button{
+padding: 10px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.menu a:hover{
+background-color:#9C9CDB;
+
+}
+/* Buttons */
+.button{
+color: #3B56A8;
+margin:15px;
+padding:5px;
+border-style:solid;
+border-width:1px;
+border-radius:3px;
+border-color:#3B56A8;
+font-size:12px;
+cursor:pointer;
+
+}
+
+.title{
+text-align:left;
+padding:2px;
+font-size:18px;
+font-weight:bold;
+border-style:solid;
+width:22%;
+border-width:1px;
+border-color:#E3E3E3;
+background-color:#FAFAFA;
+
+}
+
+input[type="text"]{
+border-radius:6px;
+}
+
+/* Professor page rules */
+
+/* Comments */
+.comment{
+border-style:solid;
+border-width:1px;
+border-radius:3px;
+background-color:#D3D3E3;
+border-color:#9C9CDB; 
+padding:5px;
+margin-top:10px;
+width:600px;
+}
+
+/* Blocks */
+.block{
+border-style:solid;
+border-width:1px;
+padding:30px;
+margin:0px;
+border-radius:3px;
+background-color:#f4f4f4;
+margin:10px;
+}
+
+.sub-block{
+border-style:solid;
+border-radius:3px;
+border-width:1px;
+background-color:#e6e6e6;
+border-color:#d2d2d2;
+padding:2px;
+}
+
+/* Ratios */
+
+.rating{
+line-height:40px;
+margin-left:15px;
+font-size:20px;
+background-color:#4A4A4A;
+color:#FFFFFF;
+padding-left:10px;
+padding-right:10px;
+padding-top:5px;
+padding-bottom:5px;
+border-radius:10px;
+
+
+
+}
+
+
+#professorPage{
+margin-left:250px;
+margin-top:50px;
+
+}
+
+/* Small Frame Rules */
+.small-frame{
+padding:1px;
+cursor:pointer;
+color:#3b5998;
+
+
+}
+
+.small-frame img{
+/*margin-top:-30px;*/
+margin-left:5px;
+
+}
